@@ -1,0 +1,6 @@
+{
+  "name": "VisionScan AI",
+  "description": "Real-time AI camera object detection running locally on device using TensorFlow COCO-SSD with bounding boxes, object counter, and snapshot capture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
